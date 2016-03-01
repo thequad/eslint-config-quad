@@ -13,7 +13,7 @@
     "eslint",
     "quad"
   ],
-  "license": "",
+  "license": "https://github.com/thequad/eslint-config-quad/blob/master/LICENSE.md",
   "bugs": {
     "url": "https://github.com/thequad/eslint-config-quad/issues"
   },
