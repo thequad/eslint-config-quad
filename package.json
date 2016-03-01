@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-quad",
+  "version": "1.0.0",
+  "description": "ESLint configs for Quad apps.",
+  "author": {
+    "name": "Mark Miyashita",
+    "email": "negativetwelve@gmail.com",
+    "url": "http://markmiyashita.com"
+  },
+  "main": "eslintrc.js",
+  "repository": "https://github.com/thequad/eslint-config-quad",
+  "keywords": [
+    "eslint",
+    "quad"
+  ],
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/thequad/eslint-config-quad/issues"
+  },
+  "homepage": "https://github.com/thequad/eslint-config-quad",
+  "dependencies": {
+  }
+}
