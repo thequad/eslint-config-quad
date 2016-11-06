@@ -41,7 +41,7 @@ module.exports = {
     'no-unused-vars': 0,
     'no-undef': 2,
     'no-underscore-dangle': 0,
-    'quotes': [2, 'single', 'backtick'],
+    'quotes': [2, 'single', {allowTemplateLiterals: true}],
     'semi': [2, 'always'],
     'space-unary-ops': 2,
     'space-before-blocks': 2,
